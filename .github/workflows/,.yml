@@ -30,7 +30,7 @@ jobs:
 
       - name: ✓
         run: |
-          pip install requests aiohttp unidecode async curl_cffi cloudscaper
+          pip install requests aiohttp unidecode async curl_cffi cloudscraper
 
       - name: ✓
         run: |
