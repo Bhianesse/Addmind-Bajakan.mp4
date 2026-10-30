@@ -41,7 +41,7 @@ jobs:
 
       - name: ✓
         run: |
-          mkdir -p 
+          mkdir -p ,
 
       - name: ✓
         run: |
